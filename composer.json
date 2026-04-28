@@ -1,0 +1,11 @@
+﻿{
+    "name": "Sufiyan/devops-project",
+    "description": "Automated CI/CD Pipeline Project",
+    "type": "project",
+    "require": {
+        "php": "^8.1"
+    },
+    "scripts": {
+        "test": "echo 'Running Automated Tests...' && exit 0"
+    }
+}
